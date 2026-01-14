@@ -1,0 +1,8 @@
+workspace: {}
+package:
+  name: xerox
+  dependencies:
+    prelude
+    effect
+    console
+  description: "DSL for Xerox specific comment-commands."
